@@ -97,3 +97,13 @@ Cloud-Based Data Analysis: Demonstrates using Google Colab + Spark for scalable 
 📌 Conclusion
 This project demonstrates how PySpark and Google Colab can be effectively combined to clean, process, and analyze large datasets. By exploring the relationship between app size and install rates, we provide actionable insights for stakeholders in the mobile app ecosystem. The final outcome includes visualized metrics, correlation values, and grouped install averages—all presented in an interpretable format for decision-making.
 
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/2985144c-f31f-431b-b7c5-9c1d44ab47c1)
+![Image](https://github.com/user-attachments/assets/d647cf83-fb82-4ef5-918b-b595a19de054)
+![Image](https://github.com/user-attachments/assets/1db15d0b-05b8-48c8-95c0-a3d616e31569)
+![Image](https://github.com/user-attachments/assets/7f695b59-a565-448a-80f1-d501c33772db)
+![Image](https://github.com/user-attachments/assets/002fb6bb-a2bb-4bf9-9f57-9d02f0857a8d)
+![Image](https://github.com/user-attachments/assets/a4eab960-cb9f-4b75-be3e-42a219b8df4e)
+  
