@@ -12,13 +12,13 @@ DURATION: 8 WEEKS
 
 MENTOR: NEELA SANTOSH
 
-DESCRIPTION
+# DESCRIPTION
 
-🔍 Objective
+# 🔍 Objective
 The objective of this project is to explore and quantify the relationship between the size of Android applications and their install counts on the Google Play Store. The analysis is intended to determine whether larger or smaller apps tend to be more downloaded, which can provide insights for app developers, marketers, and data scientists involved in mobile application design and promotion.
 
 
-📂 Dataset
+# 📂 Dataset
 Name: Google Play Store Apps Dataset
 
 Format: CSV (googleplaystore.csv)
@@ -30,7 +30,7 @@ Fields Used: App, Category, Size, Installs
 The dataset contains metadata about mobile apps such as name, category, size, number of installs, reviews, ratings, and more. For this analysis, only the Size, Installs, and Category columns are used.
 
 
-🧰 Tools & Technologies Used
+# 🧰 Tools & Technologies Used
 Tool	Purpose
 Google Colab	Cloud-based environment to run Jupyter notebooks with access to GPUs and Google Drive.
 PySpark	Used for handling large-scale data processing and transformations.
@@ -38,14 +38,14 @@ Pandas	Used for final data transformation and visualization.
 Matplotlib & Seaborn	Used for visualizing the relationship between app size and installs.
 Python	Core programming language for scripting and analysis.
 
-💻 Platform
+# 💻 Platform
 Primary Platform: Google Colab (for development and execution)
 
 Dataset Source: Kaggle
 
 Final reporting and version control: GitHub
 
-🔑 Key Steps in the Project
+# 🔑 Key Steps in the Project
 Library Installation and Spark Session Initialization
 Required libraries like PySpark and Pandas are installed, and a Spark session is created.
 
@@ -81,7 +81,7 @@ A scatter plot shows the relationship between average app size and average insta
 Spark Session Termination
 The Spark session is gracefully shut down at the end of the notebook.
 
-🌐 Application & Use Cases
+# 🌐 Application & Use Cases
 This analysis is applicable in several real-world scenarios:
 
 Mobile App Development: Helps developers understand how app size may affect install rates and user preference.
@@ -94,11 +94,11 @@ Big Data Education: A hands-on example for students learning PySpark, data clean
 
 Cloud-Based Data Analysis: Demonstrates using Google Colab + Spark for scalable data processing.
 
-📌 Conclusion
+# 📌 Conclusion
 This project demonstrates how PySpark and Google Colab can be effectively combined to clean, process, and analyze large datasets. By exploring the relationship between app size and install rates, we provide actionable insights for stakeholders in the mobile app ecosystem. The final outcome includes visualized metrics, correlation values, and grouped install averages—all presented in an interpretable format for decision-making.
 
 
-#OUTPUT
+# OUTPUT
 
 ![Image](https://github.com/user-attachments/assets/2985144c-f31f-431b-b7c5-9c1d44ab47c1)
 ![Image](https://github.com/user-attachments/assets/d647cf83-fb82-4ef5-918b-b595a19de054)
